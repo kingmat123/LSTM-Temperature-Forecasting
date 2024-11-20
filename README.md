@@ -1,1 +1,1 @@
-# LSTM-Temperature-Forecasting
+Built and trained an LSTM neural network to forecast daily minimum temperatures using historical weather data from New York. Visualized training progress and predictions to assess model accuracy in predicting temperature trends. 
